@@ -1,3 +1,4 @@
 .python-version
+*.pyc
 likaholic/db.sqlite3
-likaholic/likaholic/__pycache__/*.pyc
+
